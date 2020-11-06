@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono&display=swap");
+:root {
+  --background-primary: #292D3E;
+  --background-secondary: #2C3145;
+  --background-tertiary: #343950;
+  --background-secondary-alt: #242737;
+  --scrollbar-auto-thumb: #7E57C2;
+  --scrollbar-thin-thumb: #7E57C2;
+  --scrollbar-auto-track: #252938;
+  --channeltextarea-background: #343950;
+  --background-floating: #343950;
+  --background-modifier-selected: #292D3E;
+}
+
+/* Backgrounds fix  */
+.auto-Ge5KZx { background-color: #292D3E; }
+
+
+.markup-2BOw-j {
+    font-family: 'DM Mono', monospace;
+    font-size: 10pt;
+    color: #CECECC;
+}
+
+/* Close Minimize Buttons transation */
+.titleBar-AC4pGV>*:nth-child(2) {
+background-color: #343950;
+transition: background-color 1s ease-out;
+}
+.titleBar-AC4pGV>*:nth-child(3) {
+background-color: #343950;
+transition: background-color 1s ease-out;
+}
+.titleBar-AC4pGV>*:nth-child(4) {
+background-color: #343950;
+transition: background-color 1s ease-out;
+}
+.titleBar-AC4pGV>*:nth-child(2):hover {
+background-color: #D61427;
+}
+.titleBar-AC4pGV>*:nth-child(3):hover {
+background-color: #454A5E;
+}
+.titleBar-AC4pGV>*:nth-child(4):hover {
+background-color: #454A5E;
+}
+
+/* -------------------- */
