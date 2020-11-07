@@ -12,7 +12,18 @@ This theme is based off of the palenight vscode theme but for Powercord.
         Linux (deb): https://discord.com/api/download/canary?platform=linux
         Linux (tar.gz): https://discord.com/api/download/canary?platform=linux&format=tar.gz
         macOS: https://discord.com/api/download/canary?platform=osx 
-        
+-----------------------------------------------------------------------------------------------------------------
 ```bash
-pip install foobar
+git clone https://github.com/powercord-org/powercord
 ```
+```bash
+cd powercord
+```
+```bash
+npm i
+```
+```bash
+npm run plug
+```
+------------------------------------------------------------------------------------------------------------------
+https://powercord.dev/installation
