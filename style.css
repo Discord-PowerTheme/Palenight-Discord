@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Mono&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
 
 :root {
   --toast-background: #2C3145 !important;
@@ -35,13 +35,17 @@
     background-color: #2C3145;
 }
 
+.userPopout-3XzG_A {
+-webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
+}
 /* Backgrounds fix  */
 .auto-Ge5KZx { background-color: #292D3E; }
 
 
 .markup-2BOw-j {
-    font-family: 'DM Mono', monospace;
-    font-size: 10pt;
+    font-family: Verdana, Helvetica, Arial, sans-serif !important;
+    font-size: 9pt;
     color: #CECECC;
 }
 
@@ -93,4 +97,14 @@ background-color: #454A5E;
 /* ------------------------- */
 .resultFocused-3aIoYe {
     background: #31374e;
+}
+
+.theme-dark .root-1gCeng {
+    background-color: #2C3145;
+-webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
+}
+
+.theme-dark .footer-2gL1pp {
+    background-color: #292D3E;
 }
