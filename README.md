@@ -1,8 +1,10 @@
 # Palenight-Discord
-
 This theme is based off of the palenight vscode theme but for Powercord.
 
 **NO LIGHT THEME** | **Either will this work for MAC or Linux It might work but not that well**
+
+- *You cannot take this and call it your own*
+- *If you're going to take part's of the code please credit us or the snippit creator*
 
 ## Installation
     git - https://git-scm.com/downloads
