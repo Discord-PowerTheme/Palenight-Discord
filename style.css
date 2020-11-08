@@ -161,3 +161,14 @@ background-color: #454A5E;
     left: 5px;
     background-color: transparent;
 }
+
+
+/* Some extra bugs i found */
+
+.theme-dark .perksModal-fSYqOq {
+    background-color: #292D3E;
+}
+
+.theme-dark .tierBody-16Chc9 {
+    background-color: #2C3145;
+}
