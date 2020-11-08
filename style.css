@@ -21,6 +21,8 @@
 .theme-dark .modal-yWgWj- 
 {
   background-color: #2C3145;
+  -webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+  box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
 }
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: #292D3E;
@@ -107,4 +109,39 @@ background-color: #454A5E;
 
 .theme-dark .footer-2gL1pp {
     background-color: #292D3E;
+}
+
+.root-SR8cQa {
+  -webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
+}
+
+.container-enaOkj {
+    -webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
+}
+/* Icon Fix */
+.wordmark-2iDDfm svg {
+    display: none;
+}
+
+.wordmark-2iDDfm {
+    font-family: 'Raleway' !important;
+}
+
+.sprite-2iCowe {
+    background-position: 0px 0px !important;
+}
+
+.wordmark-2iDDfm::before {
+    content: 'Palenight';
+    font-size: 14px;
+    z-index: 1000;
+    position: fixed;
+    display: inline-block;
+    color: white;
+    height: auto;
+    top: 4px;
+    left: 5px;
+    background-color: transparent;
 }
