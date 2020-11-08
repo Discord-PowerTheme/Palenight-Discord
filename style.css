@@ -134,6 +134,19 @@ background-color: #454A5E;
        -webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
     box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
 }
+
+.drawerSizingWrapper-17Mss4 {
+    -webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
+    border-radius: none;
+}
+
+.theme-dark .message-2qRu38 {
+    background-color: #292D3E;
+    -webkit-box-shadow: 0 0 0 1px rgba(32,34,37,.6), 0 2px 10px 0 rgba(0,0,0,.2);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
+}
+
 .theme-dark .selected-1Tbx07 {
     background-color: #31374e;
 }
@@ -143,6 +156,8 @@ background-color: #454A5E;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
+
+
 
 /* Icon Fix */
 .wordmark-2iDDfm svg {
@@ -179,4 +194,21 @@ background-color: #454A5E;
 
 .theme-dark .tierBody-16Chc9 {
     background-color: #2C3145;
+}
+
+/* Spotify */
+.headerSpotify-zpWxgT {
+    background: #6891D0;
+}
+
+.topSectionSpotify-1lI0-P {
+    background: #6891D0;
+}
+
+/* Call stuff */
+
+.wrapper-2qzCYF.minimum-28Z35l {
+    height: 240px;
+    background-color: var(--background-floating);
+    box-shadow: 0 0 0 1px rgb(92 146 228 / 60%), 0 2px 10px 0 rgb(126 87 194 / 1);
 }
