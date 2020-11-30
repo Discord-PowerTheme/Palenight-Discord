@@ -1,5 +1,5 @@
-# Purplastic
-Purple :)
+# Palenight Neptune
+Deep blue theme based off of vscode palenight on Neptune
 
 **NO LIGHT THEME** | **Either will this work for MAC or Linux It might work but not that well**
 
