@@ -1,5 +1,5 @@
-# Palenight-Discord
-This theme is based off of the palenight vscode theme but for Powercord.
+# Purplastic
+Purple :)
 
 **NO LIGHT THEME** | **Either will this work for MAC or Linux It might work but not that well**
 
